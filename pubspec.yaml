@@ -49,7 +49,7 @@ flutter:
   assets:
     - images/light_rain.png
     - images/umbrella.png
-    - images/umbrella.png
+    - images/white_snow.png
     - images/umbrella2.jpg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
